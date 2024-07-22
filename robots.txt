@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://reonyclou.github.io/sitemap
+Sitemap: https://reonyclou.github.io/app/sitemap
+Sitemap: https://reonyclou.github.io/assets/sitemap
+Sitemap: https://reonyclou.github.io/css/sitemap
+Sitemap: https://reonyclou.github.io/includes/sitemap
+Sitemap: https://reonyclou.github.io/item/sitemap
+Sitemap: https://reonyclou.github.io/src/sitemap
